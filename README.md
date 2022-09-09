@@ -1,0 +1,2 @@
+# dataexperienceDIOprojetooficina
+Projeto de modelo de um banco de dados para uma oficina realizado para o bootcamp data experience da DIO. Foram criadas tabelas cliente, veiculo, mecanico, ordem de serviço, serviço, peças. A maioria dos relacionamento são do tipo um para muitos, como no caso entre cliente e carro, um cliente pode ter vários veiculos e também pode abrir várias ordens de serviço, enquanto uma ordem de serviço só pode ter um carro.
